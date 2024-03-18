@@ -1,0 +1,95 @@
+.nav-links {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav-links li {
+  margin: 1rem;
+}
+
+.nav-links a {
+  border: 1px solid transparent;
+  color: rgb(27, 157, 253);
+  text-decoration: none;
+  padding: 0.5rem;
+}
+
+.nav-links a:hover,
+.nav-links a:active,
+.nav-links a.active {
+  border-color: rgb(27, 157, 253);
+  color: white;
+  box-shadow: 0px 0px 5px rgba(255, 214, 0, 0.5); /* Use box-shadow instead of background color */
+  opacity: 0.8; /* Reduce opacity on hover */
+}
+
+.nav-links a:hover {
+  animation: pulse 1s infinite;
+}
+
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+  }
+
+  50% {
+    transform: scale(1.1);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+
+.nav-links button {
+  cursor: pointer;
+  border: 1px solid rgb(27, 157, 253);
+  color: rgb(27, 157, 253);
+  background: transparent;
+  padding: 0.5rem;
+  font: inherit;
+}
+
+.nav-links button:focus {
+  outline: none;
+}
+
+.nav-links button:hover,
+.nav-links button:active {
+  background: rgb(27, 157, 253);
+  color: white;
+}
+
+@media (min-width: 768px) {
+  .nav-links {
+    flex-direction: row;
+  }
+
+  .nav-links li {
+    margin: 0 0.5rem;
+  }
+
+  .nav-links a {
+    color: white;
+    text-decoration: none;
+  }
+
+  .nav-links button {
+    border: 1px solid white;
+    color: white;
+    background: transparent;
+  }
+  
+  /* .nav-links button:hover,
+  .nav-links button:active {
+    background: #FFD600;
+    color: #FFD600;
+  } */
+}

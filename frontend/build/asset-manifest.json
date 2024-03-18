@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.80188f57.css",
+    "main.js": "/static/js/main.ac340bb1.js",
+    "static/css/542.d0f7235f.chunk.css": "/static/css/542.d0f7235f.chunk.css",
+    "static/js/542.905d36f8.chunk.js": "/static/js/542.905d36f8.chunk.js",
+    "static/css/99.a48e519a.chunk.css": "/static/css/99.a48e519a.chunk.css",
+    "static/js/99.0d82cd6b.chunk.js": "/static/js/99.0d82cd6b.chunk.js",
+    "static/css/324.3f8dd6dd.chunk.css": "/static/css/324.3f8dd6dd.chunk.css",
+    "static/js/324.c66dbfba.chunk.js": "/static/js/324.c66dbfba.chunk.js",
+    "static/css/925.7cac6465.chunk.css": "/static/css/925.7cac6465.chunk.css",
+    "static/js/925.5aca3d29.chunk.js": "/static/js/925.5aca3d29.chunk.js",
+    "static/css/191.aa2cfc92.chunk.css": "/static/css/191.aa2cfc92.chunk.css",
+    "static/js/191.261f2711.chunk.js": "/static/js/191.261f2711.chunk.js",
+    "static/js/654.9ff2ce17.chunk.js": "/static/js/654.9ff2ce17.chunk.js",
+    "index.html": "/index.html",
+    "main.80188f57.css.map": "/static/css/main.80188f57.css.map",
+    "main.ac340bb1.js.map": "/static/js/main.ac340bb1.js.map",
+    "542.d0f7235f.chunk.css.map": "/static/css/542.d0f7235f.chunk.css.map",
+    "542.905d36f8.chunk.js.map": "/static/js/542.905d36f8.chunk.js.map",
+    "99.a48e519a.chunk.css.map": "/static/css/99.a48e519a.chunk.css.map",
+    "99.0d82cd6b.chunk.js.map": "/static/js/99.0d82cd6b.chunk.js.map",
+    "324.3f8dd6dd.chunk.css.map": "/static/css/324.3f8dd6dd.chunk.css.map",
+    "324.c66dbfba.chunk.js.map": "/static/js/324.c66dbfba.chunk.js.map",
+    "925.7cac6465.chunk.css.map": "/static/css/925.7cac6465.chunk.css.map",
+    "925.5aca3d29.chunk.js.map": "/static/js/925.5aca3d29.chunk.js.map",
+    "191.aa2cfc92.chunk.css.map": "/static/css/191.aa2cfc92.chunk.css.map",
+    "191.261f2711.chunk.js.map": "/static/js/191.261f2711.chunk.js.map",
+    "654.9ff2ce17.chunk.js.map": "/static/js/654.9ff2ce17.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80188f57.css",
+    "static/js/main.ac340bb1.js"
+  ]
+}
